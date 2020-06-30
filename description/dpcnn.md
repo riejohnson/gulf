@@ -32,6 +32,9 @@ DPCNNs optionally take additional features from embeddings trained on unlabeled 
    
         python3 train_yelp.py  --x_emb  emb/yelppol-n3r5-emb.pth  emb/yelppol-n1r3-emb.pth --alpha 1 --num_stages 1
         
+**_Ensemble_**
+
+How to make an ensemble of DPCNNs trained with GULF as in the GULF paper is explained [here](gulf-dpcnn-ensemble.md).
 
 **_Example configurations_**
 
