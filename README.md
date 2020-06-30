@@ -1,6 +1,6 @@
 ## GULF: GUided Learning through successive Functional gradient optimization
 
-This repository provides the author implementation of GULF, described in [[Johnson & Zhang, ICML2020]](http://riejohnson.com/paper/gulf-icml20.pdf).  It also provides the author implementation (in pyTorch) of deep pyramid convolutional neural networks (DPCNN) [[Johnson & Zhang ACL2017]](http://riejohnson.com/paper/dpcnn-acl17.pdf) used in the GULF experiments on text classification.  
+This repository provides the author implementation of GULF, described in [[Johnson & Zhang, ICML2020]](http://riejohnson.com/paper/gulf-icml20.pdf).  It also provides the author implementation (in pyTorch) of deep pyramid convolutional neural networks ([DPCNN](description/dpcnn.md)) [[Johnson & Zhang ACL2017]](http://riejohnson.com/paper/dpcnn-acl17.pdf) used in the GULF experiments on text classification.  
 
 **_Requirements_**
 
@@ -18,7 +18,7 @@ This repository provides the author implementation of GULF, described in [[Johns
 * To get help: `python3 train_cifar.py -h`
 
 Similarly, `train_svhn.py`, `train_imgnet.py`, and `train_yelp` can be used.  
-`train_yelp.py` for sentiment classification and DPCNN are explained [here](description/dpcnn.md). 
+`train_yelp.py` for sentiment classification and [DPCNN](description/dpcnn.md) are explained [here](description/dpcnn.md). 
 
 **_Example configurations_**
 
