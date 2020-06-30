@@ -42,5 +42,5 @@ GPU device memory: 12GB
 
 **_References_**
 
-* [Johnson & Zhang, 2020] Guided Learning of Nonconvex Models through Successive Functional Gradient Optimization.  Rie Johnson and Tong Zhang.  ICML-2020.
-* [Johnson & Zhang, 2017](http://riejohnson.com/paper/dpcnn-acl17.pdf) Deep pyramid convolutional neural networks for text categorization.  Rie Johnson and Tong Zhang.  ACL-2017.  
+[Johnson & Zhang, 2020] Guided Learning of Nonconvex Models through Successive Functional Gradient Optimization.  Rie Johnson and Tong Zhang.  ICML-2020.   
+[[Johnson & Zhang, 2017]](http://riejohnson.com/paper/dpcnn-acl17.pdf) Deep pyramid convolutional neural networks for text categorization.  Rie Johnson and Tong Zhang.  ACL-2017.   
