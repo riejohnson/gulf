@@ -1,4 +1,4 @@
-## GULF: GUided Learning through successive Functional gradient optimization (under construction ... coming soon ...)
+## GULF: GUided Learning through successive Functional gradient optimization
 
 This repository provides the author implementation of GULF, described in [[Johnson & Zhang, ICML2020]](http://riejohnson.com/paper/gulf-icml20.pdf).  It also provides the author implementation (in pyTorch) of deep pyramid convolutional neural networks (DPCNN) [[Johnson & Zhang ACL2017]](http://riejohnson.com/paper/dpcnn-acl17.pdf) used in the GULF experiments on text classification.  
 
