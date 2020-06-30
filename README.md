@@ -18,7 +18,7 @@ This repository provides the author implementation of GULF, described in [Johnso
 * To get help: `python3 train_cifar.py -h`
 
 Similarly, `train_svhn.py`, `train_imgnet.py`, and `train_yelp` can be used.  
-`train_yelp.py` for sentiment classification and DPCNN are explained [here](dpcnn-README.md). 
+`train_yelp.py` for sentiment classification and DPCNN are explained [here](description/dpcnn.md). 
 
 **_Example configurations_**
 
