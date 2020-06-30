@@ -1,6 +1,6 @@
 ## Training DPCNNs with GULF
 
-The GULF experiments with text classification in the Appendix of the GULF paper [Johnson & Zhang, 2020] used DPCNN [Johnson & Zhang, 2017] as a base model.  `train_yelp.py` and `train_yelp_embed.py` are provided to reproduce these experiments using the the polarized Yelp dataset from [Zhang et al.,2015].  Also note that using this code, regular training (i.e., without using GULF) of DPCNNs can also be done, and that with slight modification, other datasets can be used.  
+The GULF experiments with text classification in the Appendix of the GULF paper [[Johnson & Zhang, 2020]](http://riejohnson.com/paper/gulf-icml20.pdf) used DPCNN [[Johnson & Zhang, 2017]](http://riejohnson.com/paper/dpcnn-acl17.pdf) as a base model.  `train_yelp.py` and `train_yelp_embed.py` are provided to reproduce these experiments using the the polarized Yelp dataset from [Zhang et al.,2015].  Also note that using this code, regular training (i.e., without using GULF) of DPCNNs can also be done, and that with slight modification, other datasets can be used.  
 
 **_Examples without embedding learning_**
 
