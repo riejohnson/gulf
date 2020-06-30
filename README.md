@@ -8,7 +8,7 @@ This repository provides the author implementation of GULF, described in [[Johns
 * pyTorch 1.2.0 and torchvision 0.4.0 (or higher)
 * pip install -r requirements.txt
 
-*NOTE*: No need for torchvision if only the DPCNN code is used.  
+*NOTE*: No need for torchvision if only the [DPCNN](description/dpcnn.md) code is used.  
 
 **_Examples_**
 
