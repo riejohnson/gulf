@@ -59,6 +59,6 @@ This code downloads a tokenized version of the Yelp dataset.  The original Yelp 
 
 **_References_**
 
-* [Johnson & Zhang, 2020] Guided Learning of Nonconvex Models through Successive Functional Gradient Optimization.  Rie Johnson and Tong Zhang.  ICML-2020.
-* [Johnson & Zhang, 2017] Deep pyramid convolutional neural networks for text categorization.  Rie Johnson and Tong Zhang.  ACL-2017.  
+* [[Johnson & Zhang, 2020]](http://riejohnson.com/paper/gulf-icml20.pdf) Guided Learning of Nonconvex Models through Successive Functional Gradient Optimization.  Rie Johnson and Tong Zhang.  ICML-2020.
+* [[Johnson & Zhang, 2017]])http://riejohnson.com/paper/dpcnn-acl17.pdf) Deep pyramid convolutional neural networks for text categorization.  Rie Johnson and Tong Zhang.  ACL-2017.  
 * [Zhang et al., 2015] Character-level convolutional networks for text classification.  Xiang Zhang, Junbo Zhao, and Yann LeCun.  NIPS-2015. 
