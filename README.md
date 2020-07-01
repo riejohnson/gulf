@@ -8,8 +8,6 @@ This repository provides the author implementation of GULF, described in [[Johns
 * pyTorch 1.2.0 and torchvision 0.4.0 (or higher)
 * pip install -r requirements.txt
 
-*NOTE*: No need for torchvision if only the [DPCNN](description/dpcnn.md) code is used.  
-
 **_Examples_**
 
 * To perform GULF2 with ini:random with ResNet-28 on CIFAR100: `python3 train_cifar.py`
