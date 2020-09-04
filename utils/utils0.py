@@ -112,13 +112,13 @@ def raise_if_nan(value):
 class Clock(object):
    def __init__(self):
       self.data = {}
-      self.data['clk'] = time.clock()
+      self.data['clk'] = time.process_time() 
       self.data['tim'] = time.time()
       self.data['accum_clk'] = 0
       self.data['accum_tim'] = 0
 
    def tick(self):
-      clk = time.clock()
+      clk = time.process_time()
       tim = time.time()
       self.data['accum_clk'] += clk - self.data['clk']
       self.data['accum_tim'] += tim - self.data['tim']
@@ -131,7 +131,7 @@ class Clock(object):
       return self.tick()
 
    def resume(self):
-      self.data['clk'] = time.clock()
+      self.data['clk'] = time.process_time()
       self.data['tim'] = time.time()
 
 #----------------------------------------------------------
