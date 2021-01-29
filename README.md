@@ -24,7 +24,7 @@ code         | CPU cores     | CPU memory | GPU
 ------------ | ------------- | ---------- | ---
 train_cifar.py | 3  | 20GB | 1
 train_svhn.py  | 2  | 20GB | 1
-train_imgnet.py, resnet50-2 | 8 | 128GB | 2
+train_imgnet.py, resnet50   | 8 | 128GB | 2
 train_imgnet.py, wrn50-2    | 12 | 128GB | 4
 train_yelp.py  | 1  | 24GB | 1
 
